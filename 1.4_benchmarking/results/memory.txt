@@ -1,0 +1,2 @@
+Task 2 Memory Allocation test
+Memory usage: 3.0 GiB

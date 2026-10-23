@@ -1,0 +1,3 @@
+Task 3 Storage/Write speed
+Write speed: 7.6 Mb/s
+Read speed: 11.9 Mb/s

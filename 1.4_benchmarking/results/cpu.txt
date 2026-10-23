@@ -1,0 +1,4 @@
+Task 1 CPU speed test
+Execution time: 3.89s
+CPU temperature: 41.3C
+CPU usage (1 core): 100%

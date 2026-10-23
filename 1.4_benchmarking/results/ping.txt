@@ -1,0 +1,5 @@
+Task 4 Network Latency
+Latency (min): 0.633 ms
+Latency (avg): 0.722 ms
+Latency (max): 0.903 ms
+Packet loss: 0%
